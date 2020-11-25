@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADONETDemo01", "ADONETDemo01\ADONETDemo01.csproj", "{8632AE76-C526-4F9E-A510-101EA05F680C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexerSmallDemo", "IndexerSmallDemo\IndexerSmallDemo.csproj", "{D86E42F6-4B99-4512-A6A7-CF7F88B4555C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8632AE76-C526-4F9E-A510-101EA05F680C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8632AE76-C526-4F9E-A510-101EA05F680C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8632AE76-C526-4F9E-A510-101EA05F680C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8632AE76-C526-4F9E-A510-101EA05F680C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D86E42F6-4B99-4512-A6A7-CF7F88B4555C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D86E42F6-4B99-4512-A6A7-CF7F88B4555C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D86E42F6-4B99-4512-A6A7-CF7F88B4555C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D86E42F6-4B99-4512-A6A7-CF7F88B4555C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD835EC3-9106-4F7B-A820-17C9F951F0A0}
+	EndGlobalSection
+EndGlobal
